@@ -1,0 +1,51 @@
+
+
+POST http://localhost:3003/competitor HTTP/1.1
+Content-Type: application/json
+
+{ 
+        "competition":  "darts1",
+               "name": "renato",
+               "value": 1017.5
+}
+
+###
+
+POST http://localhost:3003/competition HTTP/1.1
+Content-Type: application/json
+
+{ 
+        "competitionName":"darts1",
+        "status": "open"
+}
+
+### Creating competition and status
+
+### Open and closing competition 
+
+POST http://localhost:3003/competition/status HTTP/1.1
+Content-Type: application/json
+
+{ 
+        "competitionName":"darts1",
+        "status": "open"
+}
+
+###
+
+GET  http://localhost:3003/competitor/racking HTTP/1.1
+Content-Type: application/json
+
+{ 
+        "competition":"100m primeira "
+}
+###
+
+GET  http://localhost:3003/competitor/racking HTTP/1.1
+Content-Type: application/json
+
+{ 
+        "competition":"darts1"
+}
+
+
