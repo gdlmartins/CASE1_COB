@@ -32,6 +32,11 @@ PostMan
 https://documenter.getpostman.com/view/19294726/UyxohPcn
 
 
+HEROKU - API 
+
+https://case-1-cob.herokuapp.com/
+
+
 <table><tr><td valign="top" width="50%">
 
 

@@ -49,7 +49,7 @@ Content-Type: application/json
 }
 ###
 
-GET  http://case-1-cob.herokuapp.com/racking HTTP/1.1
+GET  http://case-1-cob.herokuapp.com/competitor/racking HTTP/1.1
 Content-Type: application/json
 
 { 
