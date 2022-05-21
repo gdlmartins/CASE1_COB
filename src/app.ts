@@ -12,7 +12,7 @@ app.use(cors());
 
 
 app.listen(process.env.PORT , () => {
-    console.log("Server is running on port 3003!")
+    console.log("Gabriel Martins ! Server is running on port 3003!")
 })
 
 
