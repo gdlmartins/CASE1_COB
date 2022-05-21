@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here!  
-CASE 1 - API COB
+CASE 1 - API COB. - BACKEND 
 Api CASE 1 The Olimpic Games - Teste prático da EstanteVirtual
 
 There are two modalities - 100m : the fastest ( seconds)
@@ -37,16 +37,6 @@ HEROKU - API
 https://case-1-cob.herokuapp.com/
 
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -64,14 +54,5 @@ https://case-1-cob.herokuapp.com/
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
-<br/>  
-<br/>  
-<br/>  
-<br />
 
