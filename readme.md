@@ -33,7 +33,20 @@ PostMan
 https://documenter.getpostman.com/view/19294726/UyxohPcn
 
 
-HEROKU - API 
+Front end to using React - still working in progress.I dit forfun in last on day. 
+
+![Screen Shot 2022-05-22 at 10 58 38 pm](https://user-images.githubusercontent.com/87931081/169701677-7e9c3bb8-4e8f-49fa-a5e3-b15a0d274a7e.png)
+
+
+
+![Screen Shot 2022-05-22 at 10 59 23 pm](https://user-images.githubusercontent.com/87931081/169701706-a6f8c7e9-855c-4dd1-9834-6c5f120f619f.png)
+
+
+https://cob_case1_gabriel_martins.surge.sh/competitor
+
+
+
+HEROKU - API
 
 Look at PostMan  above for documentation and end endpoints
 
