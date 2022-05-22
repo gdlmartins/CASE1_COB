@@ -35,8 +35,7 @@ https://documenter.getpostman.com/view/19294726/UyxohPcn
 
 HEROKU - API 
 
-Look at PostMan  above for documentation and end endpoitns
-
+Look at PostMan  above for documentation and end endpoints
 
 main address api => https://case-1-cob.herokuapp.com 
 
