@@ -15,9 +15,9 @@ Dart Throw: Longest distance wins (meters)
 
 Create a competition Register results for a competition (all fields are mandatory), e
 
-{ "competition": "100m qualifying 1", "athlete": "Joao das Neves", "value": "10,234", }
+{ "competition": "100m qualifying 1", "name": "Joao das Neves", "value": "10,234" }
 
-{ "competition": "Dart semifinal", "athlete": "Claudio", "value": "70.43", "unit": "m" }
+{ "competition": "Dart semifinal", "name": "Claudio", "value": "70.43"}
 
 End a competition.
 
