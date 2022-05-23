@@ -48,7 +48,7 @@ https://cob_case1_gabriel_martins.surge.sh/competitor
 
 HEROKU - API
 
-Look at PostMan  above for documentation and end endpoints
+Look at PostMan  above for documentation and endpoints
 
 main address api => https://case-1-cob.herokuapp.com 
 
